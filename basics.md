@@ -1,0 +1,1 @@
+Hello! Lets start learing some python right?
